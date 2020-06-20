@@ -1,3 +1,3 @@
 # i_am_rich
 
-A Flutter Practice project.
+A entry level Flutter Practice project.
