@@ -7,6 +7,13 @@ void main() {
 class RichApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return MaterialApp();
+    return MaterialApp(
+      home: Scaffold(
+        appBar: AppBar(
+          title: Text("I am Rich"),
+          backgroundColor: Colors.blueGrey[900],
+        ),
+      ),
+    );
   }
 }
